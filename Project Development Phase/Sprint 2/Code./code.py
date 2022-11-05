@@ -7,10 +7,10 @@ import ibmiotf.device
 
 
 organization = "br1jua"
-deviceType = "harish123"
+deviceType = "ganesh123"
 deviceId = "123"
 authMethod = "token"
-authToken = "harish123"
+authToken = "ganesh123"
 
 
 
